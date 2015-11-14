@@ -1,2 +1,6 @@
 # hello-world
-The 1st git file
+=======
+
+Hi Humans!
+
+Hubot here,I like node.js and Coffeescript(that's what I'm made of!).
